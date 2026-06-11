@@ -1,71 +1,28 @@
 <div align="center">
 
-# Raphael Jake Caasi
+<img src="./banner.gif" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&lines=Building+Secure+Software;Future+Software+Engineer;Information+Security+Major;Full-Stack+Application+Developer;Exploring+Cloud+Computing;Cybersecurity+and+AI+Systems" />
+<br>
 
-<p>
-Bachelor of Science in Information Technology<br>
-Major in Information Security<br>
-University of Southeastern Philippines
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=4500&pause=2500&color=58A6FF&center=true&vCenter=true&repeat=true&width=850&lines=Building+secure+and+scalable+software+systems;Exploring+Software+Engineering%2C+Security%2C+Cloud+and+AI;Learning+by+building+real-world+projects" />
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I am **Raphael Jake Caasi**, a second-year Information Technology student specializing in **Information Security** at the University of Southeastern Philippines.
+I am currently building my software engineering foundations through hands-on development, problem solving, and continuous learning.
 
-My primary focus is building a strong software engineering foundation while developing expertise in secure systems, full-stack development, and modern software architecture.
+My primary interests lie in software engineering and secure application development, with a long-term focus on cloud computing, cybersecurity, data engineering, and artificial intelligence.
 
-I am currently transitioning from programming fundamentals into software engineering, with long-term interests in:
-
-* Software Engineering
-* Cybersecurity
-* Cloud & DevOps
-* Data Engineering
-* Artificial Intelligence & Machine Learning
-* System Design
+I enjoy building practical systems that emphasize maintainability, scalability, and real-world impact.
 
 ---
 
-## Engineering Direction
+## Technology Stack
 
 <div align="center">
-
-```text
-Programming Foundations
-          │
-          ▼
-Software Engineering
-          │
-          ▼
-Cloud & DevOps
-          │
-          ▼
-Cybersecurity
-          │
-          ▼
-Data Engineering
-          │
-          ▼
-Artificial Intelligence
-          │
-          ▼
-Advanced Systems Engineering
-```
-
-</div>
-
----
-
-## Current Technology Stack
-
-<div align="center">
-
-### Languages & Tools
 
 <img src="https://skillicons.dev/icons?i=java,python,mysql,git,github,linux" />
 
@@ -73,156 +30,31 @@ Advanced Systems Engineering
 
 ---
 
-## Current Mission
-
-```yaml
-Current Focus:
-  - Software Engineering
-  - Full-Stack Development
-  - Information Security
-
-Building:
-  - HERMES HR Platform
-
-Learning:
-  - Python
-  - Java
-  - SQL
-  - Git & GitHub
-  - Linux
-
-Next Objectives:
-  - JavaScript
-  - TypeScript
-  - React
-  - FastAPI
-  - Cloud Computing
-```
-
----
-
 ## Featured Project
-
-# HERMES
-
-### Human Employee Resource Management & Employment System
-
-HERMES is a localized, all-in-one Human Resource platform designed to automate and streamline HR and payroll operations for Philippine workplaces.
-
-### Features
-
-* Employee Management
-* Attendance Monitoring
-* Payroll Processing
-* Leave Management
-* Government Remittances
-* Recruitment Tracking
-* Performance Appraisals
-
-### Project Information
-
-Developed as a submission for the **Programming Paradigm 2** course at the University of Southeastern Philippines.
-
-### Repository
-
-```bash
-https://github.com/Serannette/HERMES
-```
-
----
-
-## Development Philosophy
-
-```text
-Learn Fundamentals
-        ↓
-Build Projects
-        ↓
-Understand Systems
-        ↓
-Secure Systems
-        ↓
-Scale Systems
-        ↓
-Engineer Solutions
-```
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
-
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## Future Focus Areas
 
 <table>
 <tr>
-<td width="33%">
+<td width="30%" valign="top">
 
-### Software
+### HERMES
 
-* Full-Stack Systems
-* APIs
-* Clean Architecture
-* Distributed Systems
+Human Employee Resource Management & Employment System
 
 </td>
 
-<td width="33%">
+<td width="70%" valign="top">
 
-### Security
+A localized all-in-one Human Resource platform designed to automate and streamline HR and payroll operations for Philippine workplaces.
 
-* Secure Coding
-* Web Security
-* Network Security
-* Security Engineering
+The system centralizes employee records, attendance tracking, leave management, payroll processing, recruitment workflows, government remittances, and performance evaluations into a single platform.
 
-</td>
+Developed as a project for Programming Paradigm 2 at the University of Southeastern Philippines.
 
-<td width="33%">
+<br><br>
 
-### Emerging Tech
-
-* Cloud Platforms
-* Data Engineering
-* AI Systems
-* Machine Learning
+<a href="https://github.com/Serannette/HERMES">
+View Repository →
+</a>
 
 </td>
 </tr>
@@ -230,21 +62,81 @@ Engineer Solutions
 
 ---
 
-## Connect With Me
+## Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### Building
+
+* Programming Foundations
+* Software Engineering Fundamentals
+* Full-Stack Development Skills
+* HERMES
+
+</td>
+
+<td width="50%">
+
+### Exploring
+
+* Cloud Computing
+* DevOps Practices
+* Cybersecurity
+* Data Engineering
+* Artificial Intelligence
+
+</td>
+</tr>
+</table>
+
+---
+
+## Areas of Interest
+
+```text
+Software Engineering
+├── Full-Stack Applications
+├── System Design
+├── APIs & Backend Development
+│
+Cybersecurity
+├── Secure Development
+├── Web Security
+├── Network Security
+│
+Cloud & Infrastructure
+├── Cloud Computing
+├── DevOps
+├── Automation
+│
+Data & Intelligence
+├── Data Engineering
+├── Machine Learning
+└── AI Systems
+```
+
+---
+
+## Contributions
 
 <div align="center">
 
-<a href="mailto:RaphaelJakeCaasi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge" />
-</a>
+<img src="https://raw.githubusercontent.com/Serannette/Serannette/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
-<a href="https://www.linkedin.com/in/raphael-jake-caasi-011225360/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
+</div>
 
-<a href="https://www.facebook.com/ekajleahpar.caasi/">
-    <img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook" />
-</a>
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:RaphaelJakeCaasi@gmail.com">Email</a>
+  •   <a href="https://www.linkedin.com/in/raphael-jake-caasi-011225360/">LinkedIn</a>
+  •   <a href="https://github.com/Serannette">GitHub</a>
+  •   <a href="https://www.facebook.com/ekajleahpar.caasi/">Facebook</a>
 
 </div>
 
@@ -252,6 +144,6 @@ Engineer Solutions
 
 <div align="center">
 
-### Building secure, scalable, and intelligent systems one project at a time.
+*"Building today, engineering tomorrow."*
 
 </div>
