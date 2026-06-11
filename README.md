@@ -18,11 +18,10 @@
 
 ## ABOUT ME
 
-I am Raphael Jake Caasi, a second-year Bachelor of Science in Information Technology student  
-majoring in Information Security at the University of Southeastern Philippines.
+
 <br><br>
 I am currently building a strong foundation in software engineering through hands-on development, continuous learning, and real-world projects.
-My interests span software engineering, cybersecurity, cloud computing, data engineering, artificial intelligence, and game development.
+My interests span software engineering, cybersecurity, cloud computing, data engineering, artificial intelligence, and a little game development.
 I focus on building systems that are secure, scalable, and practical.
 
 </div>
