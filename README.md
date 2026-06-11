@@ -260,8 +260,6 @@ Intelligent Applications
 
 <div align="center">
 
-## CLOSING STATEMENT
-
 What we build today will shape the world of tomorrow; what we protect today ensures there is a future worth building.
 
 </div>
