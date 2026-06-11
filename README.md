@@ -17,9 +17,6 @@
 <div align="center">
 
 ## ABOUT ME
-
-
-<br><br>
 I am currently building a strong foundation in software engineering through hands-on development, continuous learning, and real-world projects.
 My interests span software engineering, cybersecurity, cloud computing, data engineering, artificial intelligence, and a little game development.
 I focus on building systems that are secure, scalable, and practical.
