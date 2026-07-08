@@ -9,9 +9,9 @@
 
 ## ABOUT ME
 
-I am Raphael Jake Caasi, a Software Engineering student focused on building secure, scalable, and practical software solutions.
+I am Raphael Jake Caasi, an IT student focused on building secure, scalable, and practical software solutions.
 
-My interests span software engineering, cybersecurity, cloud computing, data engineering, artificial intelligence, and game development. I enjoy transforming ideas into systems that solve real-world problems while continuously improving my technical and problem-solving skills.
+My interests span software engineering, cybersecurity, cloud computing, data engineering, artificial intelligence, netorking, and game development. I enjoy transforming ideas into systems that solve real-world problems while continuously improving my technical and problem-solving skills.
 
 </div>
 
