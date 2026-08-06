@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="./banner.gif" width="100%" />
@@ -5,31 +6,30 @@
 </div>
 
 ---
-<div align="center">
-
-## ABOUT ME
-
-I am Raphael Jake Caasi, an IT student focused on building secure, scalable, and practical software solutions.
-
-My interests span software engineering, cybersecurity, cloud computing, data engineering, artificial intelligence, netorking, and game development. I enjoy transforming ideas into systems that solve real-world problems while continuously improving my technical and problem-solving skills.
-
-</div>
-
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=1000&lines=BUILDING+SECURE+SOFTWARE+SYSTEMS;EXPLORING+CLOUD%2C+SECURITY%2C+AND+AI;LEARNING+THROUGH+REAL-WORLD+PROJECTS;DESIGNING+FOR+SCALE+AND+RELIABILITY;GAME+DEVELOPMENT%3F%3F" />
+# ABOUT ME
+
+I am Raphael Jake Caasi, an Information Technology student specializing in Information Security, passionate about building secure, scalable, and practical software solutions.
+
+Currently, I develop modern full-stack web applications with an emphasis on secure authentication, cloud-native architectures, and real-time systems. My interests span software engineering, cybersecurity, cloud computing, artificial intelligence, networking, and system architecture. I enjoy transforming complex ideas into reliable software that solves real-world problems while continuously improving my engineering skills.
 
 </div>
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&repeat=true&width=1000&lines=BUILDING+APOLLO+LIGHT;SECURE+FULL-STACK+DEVELOPMENT;ENGINEERING+MODERN+WEB+APPLICATIONS;DESIGNING+SCALABLE+SYSTEMS;LEARNING+THROUGH+REAL+PROJECTS" />
+
+</div>
 
 ---
 
 <div align="center">
 
-## SYSTEM DEVELOPMENT
+# SYSTEM DEVELOPMENT
 
-<table style="margin: 0 auto; text-align: left;">
+<table>
 
 <tr>
 <th>Category</th>
@@ -38,38 +38,89 @@ My interests span software engineering, cybersecurity, cloud computing, data eng
 
 <tr>
 <td><b>Languages</b></td>
+
 <td>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </td>
+
 </tr>
 
 <tr>
-<td><b>Database</b></td>
+
+<td><b>Frontend</b></td>
+
 <td>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </td>
+
 </tr>
 
 <tr>
+
+<td><b>Backend</b></td>
+
+<td>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td><b>Database & Cloud</b></td>
+
+<td>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td><b>Deployment</b></td>
+
+<td>
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+</td>
+
+</tr>
+
+<tr>
+
 <td><b>Tools & Platforms</b></td>
+
 <td>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge\&logo=eclipseide\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 </td>
+
 </tr>
 
 </table>
@@ -80,19 +131,14 @@ My interests span software engineering, cybersecurity, cloud computing, data eng
 
 <div align="center">
 
-## FEATURED PROJECT
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=1000&lines=Enhancing+Human+Resources+Management;Building+Hospital+Systems;Centralizing+Financial+Workloads" />
+# FEATURED PROJECTS
 
 </div>
 
-
-<table style="margin: 0 auto; text-align: left;">
+<table>
 
 <tr>
-<th>Title</th>
+<th>Project</th>
 <th>Technology</th>
 <th>Description</th>
 <th>Status</th>
@@ -102,19 +148,72 @@ My interests span software engineering, cybersecurity, cloud computing, data eng
 
 <td valign="top">
 
-<b>HERMES</b><br> <i>Human Employee Resource Management & Employment System</i><br><br>
+##  Apollo Light
 
-<a href="https://github.com/Serannette/HERMES">
-View Repository →
-</a>
+Attendance Processing & On-site Logistics Logging Operator
+
+**Live Deployment**
+
+https://apollo-light.vercel.app
+
 
 </td>
 
 <td valign="top">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+React
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+TypeScript
+
+Node.js
+
+Express
+
+PostgreSQL
+
+Prisma
+
+Supabase
+
+Vercel
+
+</td>
+
+<td valign="top">
+
+Apollo Light is a secure QR-based attendance management platform built for educational institutions.
+
+It centralizes attendance tracking through role-based access control, QR code scanning, attendance windows, reporting, analytics, and cloud-based infrastructure while emphasizing security, scalability, and reliability.
+
+</td>
+
+<td valign="top">
+
+🚧 Active Development
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+## HERMES
+
+Human Employee Resource Management & Employment System
+
+Repository
+
+https://github.com/Serannette/HERMES
+
+</td>
+
+<td valign="top">
+
+Java
+
+MySQL
 
 </td>
 
@@ -126,14 +225,28 @@ An integrated employee management platform designed to centralize attendance tra
 
 <td valign="top">
 
-Stable<br>
-(Active Development)
+Stable
 
 </td>
 
 </tr>
 
 </table>
+
+---
+
+<div align="center">
+
+# CURRENT FOCUS
+
+| |
+|---|
+| Full-Stack Web Development |
+| Secure Authentication & Authorization |
+| Cloud-Native Applications |
+| PostgreSQL Database Architecture |
+| Artificial Intelligence Integration |
+| Secure Software Engineering |
 
 </div>
 
@@ -141,70 +254,24 @@ Stable<br>
 
 <div align="center">
 
-## AREAS OF INTEREST
+# AREAS OF INTEREST
 
-<table style="margin: 0 auto; text-align: center;">
-
-<tr>
-
-<th width="25%">Software Engineering</th>
-<th width="25%">Cybersecurity</th>
-<th width="25%">Cloud & DevOps</th>
-<th width="25%">Data & AI</th>
-
-</tr>
-
-<tr>
-
-<td>
-
-Full-Stack Development<br>
-Backend Engineering<br>
-System Architecture<br>
-Scalable Applications
-
-</td>
-
-<td>
-
-Secure Development<br>
-Web Security<br>
-Network Security<br>
-Security Engineering
-
-</td>
-
-<td>
-
-Cloud Computing<br>
-Infrastructure Management<br>
-Automation<br>
-DevOps Practices
-
-</td>
-
-<td>
-
-Data Engineering<br>
-Machine Learning<br>
-AI Systems<br>
-Intelligent Applications
-
-</td>
-
-</tr>
-
-</table>
+| Software Engineering | Cybersecurity | Cloud & DevOps | Data & AI |
+|----------------------|--------------|----------------|-----------|
+| Full-Stack Development | Secure Development | Cloud Computing | Artificial Intelligence |
+| Backend Engineering | Web Security | Infrastructure | Machine Learning |
+| System Architecture | Network Security | Automation | Data Engineering |
+| Scalable Applications | Security Engineering | DevOps | Intelligent Systems |
 
 </div>
 
 <br>
 
 <div align="center">
-  
+
 Learning through hands-on projects, technical exploration, and continuous improvement.
 
-Interested in building secure software systems, modern web applications, cloud-native solutions, intelligent systems, and scalable infrastructure that solve practical problems.
+Interested in building secure software systems, modern web applications, cloud-native platforms, intelligent systems, and scalable infrastructure that solve practical problems.
 
 </div>
 
@@ -212,7 +279,23 @@ Interested in building secure software systems, modern web applications, cloud-n
 
 <div align="center">
 
-## CONNECT WITH ME
+# GITHUB STATS
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Serannette&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serannette&layout=compact&theme=github_dark&hide_border=true"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Serannette&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# CONNECT WITH ME
 
 <a href="mailto:RaphaelJakeCaasi@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -221,7 +304,6 @@ Interested in building secure software systems, modern web applications, cloud-n
 <a href="https://www.linkedin.com/in/raphael-jake-caasi-011225360/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 
 <a href="https://www.facebook.com/ekajleahpar.caasi/">
 <img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -233,6 +315,7 @@ Interested in building secure software systems, modern web applications, cloud-n
 
 <div align="center">
 
-*"What we build today will shape the world of tomorrow; what we protect today ensures there is a future worth building."*
+*"Build with purpose. Secure by design. Scale with confidence."*
 
 </div>
+```
